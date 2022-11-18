@@ -28,7 +28,7 @@ h1 {
 }
 
 h2 {
-  font-size: 1rem;
+  font-size: 1.5rem;
 }
 
 h3 {
@@ -75,7 +75,7 @@ a {
 .links {
   box-sizing: inherit;
   display: flex;
-  justify-content: left;
+  justify-content: space-around;
 }
 
 .links a {
@@ -84,7 +84,7 @@ a {
   display: flex;
   max-width: 200px;
   margin: 2rem 0;
-  padding: 1rem;
+  padding: 0.3rem;
   text-decoration: none;
 }
 /* ---------------- */
@@ -169,12 +169,6 @@ li:last-child .button {
   .pfp-container {
     order: 2;
     grid-template-columns: 428px;
-  }
-
-  .links {
-    display: flex;
-    justify-content: left;
-    align-items: center;
   }
 
   .content-container {
