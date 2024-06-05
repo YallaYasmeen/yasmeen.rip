@@ -53,7 +53,7 @@ a {
 }
 
 #main {
-  background-image: url("background.png");
+  background-image: url("background.jpg");
   background-position: bottom right;
   background-repeat: no-repeat;
   background-size: cover;
@@ -102,7 +102,7 @@ a {
 .overlay {
   background-color: rgba(0, 0, 0, 0.1);
   -webkit-backdrop-filter: blur(28px);
-  backdrop-filter: blur(28px);
+  backdrop-filter: blur(0px);
   position: absolute;
   top: 0;
   bottom: 0;
