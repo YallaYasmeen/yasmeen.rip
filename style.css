@@ -79,7 +79,7 @@ a {
 }
 
 .links a {
-  font-size: 3rem;
+  font-size: 2.5rem;
   box-sizing: inherit;
   display: flex;
   max-width: 200px;
@@ -151,7 +151,7 @@ li:last-child .button {
 }
 
 .links a:hover {
-  color: rgb(255, 0, 0);
+  color: rgb(243, 10, 86);
 }
 
 @media (min-width: 768px) {
