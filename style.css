@@ -151,7 +151,7 @@ li:last-child .button {
 }
 
 .links a:hover {
-  color: rgb(243, 10, 86);
+  color: #ff0100;
 }
 
 @media (min-width: 768px) {
