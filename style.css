@@ -79,7 +79,7 @@ a {
 }
 
 .links a {
-  font-size: 2.5rem;
+  font-size: 2rem;
   box-sizing: inherit;
   display: flex;
   max-width: 200px;
